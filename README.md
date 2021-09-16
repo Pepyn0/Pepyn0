@@ -22,3 +22,5 @@ Just I'm a S.I academic at UFPI, who likes anime and enthusiastic about technolo
 <a href="https://github.com/Pepyn0/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepyn0&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
+
+![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg)
