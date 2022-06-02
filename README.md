@@ -24,7 +24,7 @@
   ## 🧭 &nbsp;About Me
 
   - 📚 Information System student at UFPI.
-  <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
+  - 🔭 I'm currently working on <a href="https://www.zappts.com.br/">Zappts</a>
 
   - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Dart**, **Flutter** and **Python**.
 
