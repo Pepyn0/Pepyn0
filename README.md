@@ -114,7 +114,7 @@
 </div>
 
 
-![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg)
 
 
 <!-- ## 📚 &nbsp;My Projects -->
