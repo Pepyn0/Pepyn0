@@ -26,7 +26,7 @@
   - 📚 Information System student at UFPI.
   - 🔭 I'm currently working on <a href="https://www.zappts.com.br/">Zappts</a>
 
-  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Dart**, **Flutter** and **Python**.
+  - 🌱  I’m always studying , **TypeScript**, **NodeJS**, **Flutter** and **Data Structure**.
 
   - 💬 Ask me about **any technology**.
 
@@ -52,39 +52,58 @@
 
 <div>
 
-  ## 📚 &nbsp;Currently studying
+  ## 🛠️ &nbsp;Languages and Tools
 
-  - Figma
-  - Microservices architecture
-  - Clean architecture
-  - TDD
+  ### Linguages
+  [![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+  [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+  [![CSharp](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+  [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+  [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
+  [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
+  [![Dart](https://skillicons.dev/icons?i=dart)](https://skillicons.dev)
+  [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+  [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
+  [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+  [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 
-</div>
+  ### Libraries
+  [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+  [![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+  [![NestJS](https://skillicons.dev/icons?i=nestjs)](https://skillicons.dev)
+  [![DotNet](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
+  [![dJango](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+  [![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+  [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+  [![Vite](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
+  [![Flutter](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
+  [![Unreal](https://skillicons.dev/icons?i=unreal)](https://skillicons.dev)
+  [![Unity](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
+  [![Jest](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
+  [![jQuery](https://skillicons.dev/icons?i=jquery)](https://skillicons.dev)
 
+  ### Database
+  [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
+  [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
+  [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+  [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
-<div>
+  ### Cloud Servers
+  [![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
-  ## 🛠️ &nbsp;My Tech Stacks
-
-  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
-  ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
-  ![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=flat&logo=react)&nbsp;
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=flat&logo=kotlin)&nbsp;
-  ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=flat&logo=dart)&nbsp;
-  ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=flat&logo=flutter)&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
-  ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
-  ![Django](https://img.shields.io/badge/-Django-0D1117?style=flat&logo=django)&nbsp;
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-0D1117?style=flat&logo=jupyter)&nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)
+  ### Tools
+  [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+  [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+  [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+  [![GitLab](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
+  [![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+  [![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev)
+  [![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+  [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+  [![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+  [![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
+  [![Maven](https://skillicons.dev/icons?i=maven)](https://skillicons.dev)
+  [![Yarn](https://skillicons.dev/icons?i=yarn)](https://skillicons.dev)
 
 </div>
 
@@ -98,11 +117,10 @@
   <a href="https://github.com/Pepyn0">
     <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepyn0&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
-</div>
 
 <div>
 
-  ## 📫 &nbsp;My Contacts
+  ## 📫 &nbsp;Connect with me
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
   [![LinkedIn Badge](https://img.shields.io/badge/-Pablo_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablodsilva/)](https://www.linkedin.com/in/pablodsilva/)
